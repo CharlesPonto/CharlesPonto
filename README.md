@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Django and Laravel**<br>
+- 🌱 I’m currently learning **React and Laravel**<br>
 - 💬 Ask me about **Web Development**<br>
 - 📫 Reach me at **charlesponto2822@gmail.com**<br>
 - ⚡ Fun fact: **I'm noob**
