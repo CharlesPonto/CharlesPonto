@@ -1,10 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
----
-
-<h1 align="center">Hi 👋, I'm Charles Ponto</h1>
 <h3 align="center">Aspiring Web Dev 🚀</h3>
 
 <p align="center">
