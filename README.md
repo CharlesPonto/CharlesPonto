@@ -1,6 +1,4 @@
----
-<h1 align="center">Hi, I'm Charles</h1>
-<h3 align="center">Aspiring Web Dev 🚀</h3>
+<h3 align="center">👨‍💻 Aspiring Full-Stack Developer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20views&color=0e75b6&style=flat" alt="charlesponto" />
@@ -27,6 +25,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="Node.js" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" alt="C#" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" alt="Python" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30" alt="PHP" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="30" alt="Django" />
