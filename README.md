@@ -60,18 +60,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400"
-  />
+  <!-- GitHub stats (stable fork) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&count_private=true" />
   <br/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=charlesponto&theme=tokyonight&cache_seconds=86400"
-  />
+
+  <!-- Streak stats (already working) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesponto&theme=tokyonight" />
   <br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight&cache_seconds=86400"
-  />
+
+  <!-- Top languages (stable fork) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
