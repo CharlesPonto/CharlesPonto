@@ -64,8 +64,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&count_private=true" />
   <br/>
 
-  <!-- Streak stats (already working) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesponto&theme=tokyonight" />
+<!-- GitHub streak stats (UPDATED provider) -->
+  <img src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=false" />
   <br/>
 
   <!-- Top languages (stable fork) -->
