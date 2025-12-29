@@ -60,23 +60,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub stats (stable fork) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&count_private=true" />
+  <!-- GitHub stats -->
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&count_private=true"
+    alt="GitHub stats"
+  />
   <br/>
 
-<!-- GitHub streak stats (UPDATED provider) -->
-  <img src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=false" />
+  <!-- GitHub streak stats (cache-busted & stable) -->
+  <img
+    src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=false&v=1"
+    alt="GitHub streak"
+  />
   <br/>
 
-  <!-- Top languages (stable fork) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=charlesponto&icon=0&color=0" />
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
