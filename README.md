@@ -2,20 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316&section=header&text=Hi%20I'm%20Charles&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-<p align="center" style="display:flex; justify-content:center; gap:10px;">
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#F97316"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn" />
   </a>
-
   <!-- YouTube -->
   <a href="https://www.youtube.com/@charlesgaming28" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="40" height="40" style="fill:#F97316"/>
+    <img src="https://img.shields.io/badge/-YouTube-F97316?style=for-the-badge&logo=youtube&logoColor=white&label=" alt="YouTube" />
   </a>
-
   <!-- Instagram -->
   <a href="https://www.instagram.com/charlessszx_/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill:#F97316"/>
+    <img src="https://img.shields.io/badge/-Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white&label=" alt="Instagram" />
   </a>
 </p>
 
