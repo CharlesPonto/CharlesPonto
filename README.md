@@ -16,28 +16,30 @@
 
 <br>
 
-<table align="center" border="0" cellspacing="0" cellpadding="20">
+<table align="center" border="1">
   <tr>
-    <td align="center" valign="middle" style="padding: 40px;">
+    <td align="center" width="50%" valign="middle" style="padding: 20px;">
       <br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
       <br><br>
       <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
       <br><br>
       <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
-      <br>
+      <br><br>
     </td>
-    <td align="center" valign="middle" style="padding: 20px;">
+    <td align="center" width="50%" valign="middle" style="padding: 20px;">
       <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=transparent&text_color=A020F0&icon_color=A020F0&hide_border=true&title_color=A020F0&hide_title=true" />
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle" style="padding: 20px;">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=transparent&text_color=A020F0&hide_border=true&title_color=A020F0&hide_title=true" />
+    </td>
+    <td align="center" width="50%" valign="middle" style="padding: 20px;">
+      <img height="170" src="https://streak-stats.demolab.com?user=charlesponto&theme=transparent&stroke=A020F0&ring=A020F0&fire=A020F0&currStreakNum=A020F0&sideLabels=A020F0&dates=A020F0&hide_border=true" />
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=transparent&text_color=A020F0&hide_border=true&title_color=A020F0&hide_title=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://streak-stats.demolab.com?user=charlesponto&theme=transparent&stroke=A020F0&ring=A020F0&fire=A020F0&currStreakNum=A020F0&sideLabels=A020F0&dates=A020F0&hide_border=true" />
-</p>
 
 <br>
 
