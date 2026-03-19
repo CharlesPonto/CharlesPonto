@@ -16,7 +16,7 @@
 
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=94A3B8&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Next.js+•+Express+•+Supabase;Flutter+•+MERN+•+MEVN" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=94A3B8&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;" />
 </div>
 
 <br>
