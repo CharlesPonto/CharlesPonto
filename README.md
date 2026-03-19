@@ -30,11 +30,23 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,dart&theme=dark" />
+  
   <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,java,cs&theme=dark" />
+  
   <br><br>
-  <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
+  
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" />
+  
+  <br><br>
+  
+  <!-- Tools & DevOps -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite&theme=dark" />
 </p>
 
 <hr>
