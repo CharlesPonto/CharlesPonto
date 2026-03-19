@@ -18,14 +18,34 @@
 
 <table align="center" border="1">
   <tr>
-    <td align="center" width="50%" valign="middle" style="padding: 20px;">
-      <br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
-      <br><br>
+    <td align="center" width="50%" valign="middle" style="padding: 25px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-FF4D4D?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-FF4D4D?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-FF4D4D?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-FF4D4D?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-FF4D4D?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-FF4D4D?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-FF4D4D?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-FF4D4D?style=flat-square&logo=flutter&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Node.js-FF4D4D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-FF4D4D?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-FF4D4D?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF4D4D?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-FF4D4D?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-FF4D4D?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-FF4D4D?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-FF4D4D?style=flat-square&logo=supabase&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Java-FF4D4D?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-FF4D4D?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-FF4D4D?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-FF4D4D?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-FF4D4D?style=flat-square&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF4D4D?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-FF4D4D?style=flat-square&logo=vite&logoColor=white" />
+      </p>
     </td>
     <td align="center" width="50%" valign="middle" style="padding: 20px;">
       <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=transparent&text_color=FF4D4D&icon_color=FF4D4D&hide_border=true&title_color=FF4D4D&hide_title=true" />
