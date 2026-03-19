@@ -6,16 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Tech+🚀" />
 </p>
 
-<!-- SOCIAL ICONS (MODERN) -->
+<!-- SOCIAL ICONS (CLEAN SVG) -->
 <p align="center">
   <a href="mailto:charlesponto2822@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://developers.google.com/profile/u/YOUR-GOOGLE-ID">
-    <img src="https://img.shields.io/badge/Google%20Dev-111111?style=for-the-badge&logo=google&logoColor=4285F4" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
   </a>
 </p>
 
@@ -71,6 +71,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charlesponto/charlesponto/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
