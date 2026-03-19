@@ -23,28 +23,8 @@
 </div>
 
 <hr>
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-  <b>Frontend / Client:</b> 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,dart&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Backend / Server:</b> 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,java,cs&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Databases:</b> 
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Tools & DevOps:</b> 
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite&theme=dark" />
-</p>
-
+<h3 align="center">🛠️ Languages & Tools</h3> <p align="center"> 
+  <!-- Frontend --> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap&theme=dark" /> </p> <p align="center"> <!-- Backend --> <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,java,cs&theme=dark" /> </p> <p align="center"> <!-- Database --> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" /> </p> <p align="center"> <!-- Tools & DevOps --> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite&theme=dark" /> </p>
 <hr>
 
 <h3 align="center">📊 GitHub Overview</h3>
