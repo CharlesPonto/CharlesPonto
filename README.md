@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20I'm%20Charles&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=94A3B8&section=header&text=Hi%20I'm%20Charles&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-94A3B8?style=for-the-badge&logo=linkedin&logoColor=1E293B" /></a>
