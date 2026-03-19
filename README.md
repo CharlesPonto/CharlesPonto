@@ -2,17 +2,18 @@
 <h3 align="center">👨‍💻 Full-Stack Developer | Flutter Enthusiast | Tech Innovator 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20views&color=007BFF&style=flat-square" alt="charlesponto" />
+  <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20views&color=0e75b6&style=flat-square" alt="charlesponto" />
 </p>
 
 <p align="center">
-  <a href="mailto:charlesponto2822@gmail.com"><img src="https://img.shields.io/badge/Email-007BFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/charlesponto"><img src="https://img.shields.io/badge/GitHub-007BFF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/YOUR-CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+•+Express+•+Supabase;Flutter+•+MERN+•+MEVN" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+•+Express+•+Supabase;Flutter+•+MERN+•+MEVN" />
 </div>
 
 ---
@@ -23,7 +24,6 @@
 - 🚀 **Currently building:** Quality Assurance and Smart Library systems.
 - 🌱 **Learning:** Advanced Flutter state management and scalable Cloud architecture.
 - 💬 **Ask me about:** React, Mobile Apps, or Startup ideas.
-- 📫 **Reach me at:** charlesponto2822@gmail.com
 
 ---
 
@@ -31,33 +31,33 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-007BFF?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-007BFF?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-007BFF?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-007BFF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007BFF?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Node.js-007BFF?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-007BFF?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-007BFF?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-007BFF?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-007BFF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Supabase-007BFF?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-007BFF?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-007BFF?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-007BFF?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-007BFF?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-007BFF?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-007BFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-007BFF?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
@@ -65,18 +65,20 @@
 
 ### 📊 GitHub Stats
 
-<table align="center" border="1">
+<table align="center" border="0">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=transparent&text_color=007BFF&icon_color=007BFF&hide_border=true&title_color=007BFF" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=transparent&text_color=007BFF&hide_border=true&title_color=007BFF" />
+      <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=default&hide_border=true&scale=1.1" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding: 10px;">
-      <img width="100%" src="https://streak-stats.demolab.com?user=charlesponto&theme=transparent&stroke=007BFF&ring=007BFF&fire=007BFF&currStreakNum=007BFF&sideLabels=007BFF&dates=007BFF&hide_border=true" />
+    <td align="center" style="padding: 10px;">
+      <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=default&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img width="100%" src="https://streak-stats.demolab.com?user=charlesponto&theme=default&hide_border=true" />
     </td>
   </tr>
 </table>
