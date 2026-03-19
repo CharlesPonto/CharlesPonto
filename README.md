@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316,FB923C&section=header&text=Hi%20I'm%20Charles&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316&section=header&text=Hi%20I'm%20Charles&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FB923C&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;" />
 </div>
 
 <hr>
@@ -44,21 +44,21 @@
 
 <h3 align="center">📊 GitHub Overview</h3>
 <p align="center">
-  <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=dark&text_color=FB923C&icon_color=F97316&hide_border=true&title_color=F97316&bg_color=00000000" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=dark&text_color=F97316&icon_color=F97316&hide_border=true&title_color=F97316&bg_color=1F2937" />
 </p>
 
 <table align="center" border="0">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=dark&text_color=FB923C&hide_border=true&title_color=F97316&bg_color=00000000" />
+      <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=dark&text_color=F97316&hide_border=true&title_color=F97316&bg_color=1F2937" />
     </td>
     <td width="20"></td>
     <td align="center" style="padding: 10px;">
-      <img height="185" src="https://streak-stats.demolab.com?user=charlesponto&theme=dark&stroke=F97316&ring=FB923C&fire=FACC15&currStreakNum=FB923C&sideLabels=F97316&dates=FB923C&hide_border=true&background=00000000" />
+      <img height="185" src="https://streak-stats.demolab.com?user=charlesponto&theme=dark&stroke=F97316&ring=F97316&fire=FACC15&currStreakNum=F97316&sideLabels=F97316&dates=F97316&hide_border=true&background=1F2937" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316,FB923C&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=100&section=footer"/>
 </p>
