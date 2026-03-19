@@ -49,7 +49,7 @@
   <b>Backend</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=csharp" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 </p>
 
 <!-- DATABASE -->
@@ -69,7 +69,7 @@
 <!-- STATS -->
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
