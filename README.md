@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316&section=header&text=Hi%20I'm%20Charles&font=Fira%20Code&fontSize=65&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316&section=header&text=Hi%20I'm%20Charles&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
