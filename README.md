@@ -3,17 +3,14 @@
 </p>
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@charlesgaming28" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-F97316?style=for-the-badge&logo=youtube&logoColor=white&label=" alt="YouTube" />
+  <a href="https://www.youtube.com/@charlesgaming28">
+    <img src="https://img.shields.io/badge/YouTube-F97316?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/charlessszx_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white&label=" alt="Instagram" />
+  <a href="https://www.instagram.com/charlessszx_">
+    <img src="https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
