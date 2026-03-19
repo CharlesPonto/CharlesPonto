@@ -29,22 +29,17 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
-<div align="center" style="background-color:#1F2937; padding:25px; border-radius:12px; display:inline-block;">
-  
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
-  
-  <br><br>
-  
-  <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
-  
-  <br><br>
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=220&section=header" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
+</p>
 
 <hr>
 
