@@ -3,17 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/)">
     <img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin-in&logoColor=white" />
   </a>
-  <a href="https://youtube.com/YOUR-CHANNEL">
+  <a href="[https://youtube.com/YOUR-CHANNEL](https://www.youtube.com/@charlesgaming28)">
     <img src="https://img.shields.io/badge/YouTube-F97316?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM">
+  <a href="[https://instagram.com/YOUR-INSTAGRAM](https://www.instagram.com/charlessszx_)">
     <img src="https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/YOUR-FACEBOOK">
-    <img src="https://img.shields.io/badge/Facebook-F97316?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -29,7 +26,7 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
 </p>
 
 <p align="center">
