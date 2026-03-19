@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120"/>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin-in&logoColor=white" />
   </a>
