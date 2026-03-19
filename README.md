@@ -21,7 +21,7 @@
 
 <br>
 <hr>
-
+<br>
 <h3 align="center">🛠️ Languages & Tools</h3>
 <table align="center" border="1">
   <tr>
@@ -37,7 +37,7 @@
 
 <br>
 <hr>
-
+<br>
 <h3 align="center">📊 GitHub Overview</h3>
 <p align="center">
   <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=dark&text_color=94A3B8&icon_color=94A3B8&hide_border=true&title_color=94A3B8&bg_color=00000000" />
