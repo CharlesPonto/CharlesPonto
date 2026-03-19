@@ -6,21 +6,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Tech+🚀" />
 </p>
 
-<!-- PROFILE VIEWS + SOCIALS -->
+<!-- SOCIAL ICONS (MODERN) -->
+<p align="center">
+  <a href="mailto:charlesponto2822@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://developers.google.com/profile/u/YOUR-GOOGLE-ID">
+    <img src="https://img.shields.io/badge/Google%20Dev-111111?style=for-the-badge&logo=google&logoColor=4285F4" />
+  </a>
+</p>
+
+<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20views&color=0e75b6&style=flat" />
-  
-  <a href="mailto:charlesponto2822@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://developers.google.com/profile/u/YOUR-GOOGLE-ID">
-    <img src="https://img.shields.io/badge/-GoogleDev-4285F4?style=flat&logo=google&logoColor=white"/>
-  </a>
 </p>
 
 ---
