@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/">
-    <img src="https://img.shields.io/badge/-LinkedIn-F97316?style=flat-square&logo=linkedin&logoColor=white&label=" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-F97316?style=flat-square&logo=linkedIn&logoColor=white&label=" alt="LinkedIn"/>
   </a>
   
   <a href="https://www.youtube.com/@charlesgaming28">
