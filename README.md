@@ -21,7 +21,6 @@
 
 <br>
 <hr>
-<br>
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <table align="center" border="1">
@@ -38,7 +37,6 @@
 
 <br>
 <hr>
-<br>
 
 <h3 align="center">📊 GitHub Overview</h3>
 <p align="center">
