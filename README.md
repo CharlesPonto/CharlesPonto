@@ -1,84 +1,84 @@
-<h3 align="center">👨‍💻 Aspiring Full-Stack Developer 🚀</h3>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Charles</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20views&color=0e75b6&style=flat" alt="charlesponto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Tech+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **React and Laravel**
+- 🌱 Currently learning **React, Laravel, and Next.js**
 - 💬 Ask me about **Web Development**
-- 📫 Reach me at **charlesponto2822@gmail.com**
+- 📫 Email: **charlesponto2822@gmail.com**
+- ⚡ Fun fact: I love building real-world systems
 
 ---
 
-### 🛠 Languages and Tools
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<!-- 🌐 Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
-
-<br/>
-
-<!-- ⚙️ Backend -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30"/>
-
-<br/>
-
-<!-- 🗄️ Database -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-
-<br/>
-
-<!-- 🔧 Tools -->
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-
-<br/>
-
-<!-- 🎨 Design -->
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30"/>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
+### 🌐 Frontend
 <p align="center">
-  <!-- GitHub stats -->
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&count_private=true"
-    alt="GitHub stats"
-  />
-  <br/>
-
-  <!-- GitHub streak stats (cache-busted & stable) -->
-  <img
-    src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=false&v=1"
-    alt="GitHub streak"
-  />
-  <br/>
-
-  <!-- Top languages -->
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java,csharp,django" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
+</p>
+
+### 🔧 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,express,supabase,postgres,mongodb" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:charlesponto2822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Code. Learn. Build. Repeat."
+</p>
