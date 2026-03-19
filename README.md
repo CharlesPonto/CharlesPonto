@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=94A3B8&style=flat-square&label=VISITORS" />
+ <img src="https://komarev.com/ghpvc/?username=charlesponto&color=94A3B8&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
 <br>
@@ -61,16 +61,6 @@
   </tr>
 </table>
 
-<br>
-<hr>
-<br>
-
-<h3 align="center">🐍 Activity Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/charlesponto/charlesponto/output/github-contribution-grid-snake.svg" alt="Charles Ponto's GitHub Snake" width="85%" />
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=94A3B8&height=100&section=footer"/>
