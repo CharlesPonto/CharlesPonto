@@ -27,10 +27,8 @@
 
 <hr>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=220&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=250&section=header&text=%20&fontSize=1" />
 </p>
 
 <p align="center">
