@@ -6,9 +6,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
-  <a href="https://youtube.com/YOUR-CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
-  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=ffffff" /></a>
+  <a href="https://youtube.com/YOUR-CHANNEL"><img src="https://img.shields.io/badge/YouTube-4F46E5?style=for-the-badge&logo=youtube&logoColor=ffffff" /></a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-4F46E5?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
+  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-4F46E5?style=for-the-badge&logo=facebook&logoColor=ffffff" /></a>
+  <a href="mailto:charlesponto2822@gmail.com"><img src="https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
 </p>
 
 <p align="center">
@@ -29,10 +30,13 @@
 <table align="center" border="1">
   <tr>
     <td align="center" style="padding: 30px; border-color: #4F46E5;">
+      <!-- Frontend -->
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
       <br><br>
+      <!-- Backend & Databases -->
       <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
       <br><br>
+      <!-- Tools & IDEs -->
       <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
     </td>
   </tr>
