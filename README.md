@@ -1,72 +1,51 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center" style="color:#00F7FF;">🚀 Aspiring Full-Stack Developer</h3>
-
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Next.js+%7C+Express+%7C+Supabase;Building+Real-World+Projects+⚡" />
-</p>
-
-<!-- SOCIAL ICONS -->
-<p align="center" style="margin-top:6px;">
-  <a href="mailto:charlesponto2822@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="32" style="margin:0 6px;transition:0.3s" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" style="margin:0 6px;transition:0.3s" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://developers.google.com/profile/u/YOUR-GOOGLE-ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" style="margin:0 6px;transition:0.3s" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
-
-<!-- PROFILE VIEWS -->
-<p align="center" style="margin-top:6px;">
-  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=0e75b6&style=flat" />
-</p>
-
-<!-- ABOUT -->
-<p align="center" style="font-size:14px; margin-top:6px;">
-  🌱 React • Next.js • Express • Supabase &nbsp;•&nbsp; 💬 Web Dev &nbsp;•&nbsp; 📫 charlesponto2822@gmail.com
-</p>
-
-<!-- ICON STACK (SEPARATED) -->
-<p align="center" style="margin-top:12px;">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" height="32" style="margin:4px"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6a0dad&height=120&section=header&text=Hi%20I'm%20Charles&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" height="32" style="margin:4px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="32" style="margin:4px" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="32" style="margin:4px" alt="C#"/>
+  <a href="mailto:charlesponto2822@gmail.com"><img src="https://img.shields.io/badge/Email-6a0dad?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/charlesponto"><img src="https://img.shields.io/badge/GitHub-6a0dad?style=flat-square&logo=github&logoColor=white" /></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=6a0dad&style=flat-square&label=PROFILE+VIEWS" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;Next.js+•+Express+•+Supabase;Flutter+•+MERN+•+MEVN;Building+Scalable+Solutions+✨" />
+  <p><b>🚀 IT Student & Developer</b> based in the Philippines, specialized in modern web, mobile, and scalable backend systems.</p>
+</div>
+
+---
+
+<table align="center" border="0">
+  <tr>
+    <td width="55%" align="center" valign="top">
+      <p align="center"><b>💻 Full Tech Stack</b></p>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
+    </td>
+    <td width="45%" align="center" valign="top">
+      <p align="center"><b>📊 GitHub Stats</b></p>
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=transparent&text_color=A020F0&icon_color=A020F0&hide_border=true&title_color=A020F0" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <b>🔥 Coding Activity</b><br>
+  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=transparent&text_color=A020F0&hide_border=true&title_color=A020F0" />
+  <img height="135" src="https://streak-stats.demolab.com?user=charlesponto&theme=transparent&stroke=A020F0&ring=A020F0&fire=A020F0&currStreakNum=A020F0&sideLabels=A020F0&dates=A020F0" />
 </p>
 
 <p align="center">
-  <!-- Database & Cloud -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" height="32" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/charlesponto/charlesponto/output/github-contribution-grid-snake.svg" width="85%" />
 </p>
 
 <p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="32" style="margin:4px"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6a0dad&height=30&section=footer"/>
 </p>
-
-<!-- STATS -->
-<p align="center" style="margin-top:16px;">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="140" src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- SNAKE ANIMATION -->
-<p align="center" style="margin-top:12px;">
-  <img src="https://raw.githubusercontent.com/charlesponto/charlesponto/output/github-contribution-grid-snake.svg" />
-</p>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=100&section=footer"/>
