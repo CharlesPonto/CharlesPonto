@@ -28,17 +28,23 @@
 <hr>
 
 <h3 align="center">🛠️ Languages & Tools</h3>
-<table align="center" border="1">
-  <tr>
-    <td align="center" style="padding: 30px; border-color: #F97316;">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
-    </td>
-  </tr>
-</table>
+
+<div align="center" style="background-color:#1F2937; padding:25px; border-radius:12px; display:inline-block;">
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
+  
+  <br><br>
+  
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
+  
+  <br><br>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,postman,vite&theme=dark" />
+
+</div>
 
 <hr>
 
