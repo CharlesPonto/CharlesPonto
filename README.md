@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=94A3B8&height=200&section=header&text=Hi%20I'm%20Charles&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-94A3B8?style=for-the-badge&logo=linkedin&logoColor=1E293B" /></a>
@@ -14,8 +13,6 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=94A3B8&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
-
-<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=94A3B8&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Next.js+•+Express+•+Supabase;Flutter+•+MERN+•+MEVN" />
