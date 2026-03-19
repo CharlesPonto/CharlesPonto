@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316&section=header&text=%3Chi%20I'm%20Charles%2F%3E&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316&section=header&text=Hi%20I'm%20Charles&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
 </p>
-
 
  <p align="center">
 
