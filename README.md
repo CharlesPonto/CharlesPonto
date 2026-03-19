@@ -1,88 +1,57 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer</h3>
-
+<h2 align="center">Hi 👋, I'm Charles</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Tech+🚀" />
+  🚀 Aspiring Full-Stack Developer
 </p>
 
-<!-- SOCIAL ICONS (CLEAN SVG) -->
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&lines=Full-Stack+Dev;Next.js+%7C+Express+%7C+Supabase;Always+Learning+🚀" />
+</p>
+
+<!-- SOCIALS -->
 <p align="center">
   <a href="mailto:charlesponto2822@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
   </a>
   <a href="https://developers.google.com/profile/u/YOUR-GOOGLE-ID">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32"/>
   </a>
 </p>
 
-<!-- PROFILE VIEWS -->
+<!-- VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🌱 Currently learning **React, Laravel, Next.js, Express, Supabase**
-- 💬 Ask me about **Web Development**
-- 📫 Email: **charlesponto2822@gmail.com**
-- ⚡ Fun fact: I enjoy building real-world systems
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
+<!-- ABOUT -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java,csharp,django" />
-</p>
-
-### 🗄️ Database & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
-</p>
-
-### 🔧 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  🌱 React • Next.js • Express • Supabase &nbsp; • &nbsp;
+  💬 Web Dev &nbsp; • &nbsp;
+  📫 charlesponto2822@gmail.com
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- TECH STACK (ALL IN ONE) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,php,laravel,python,java,csharp,django,postgres,mongodb,mysql,supabase,git,github,vscode" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- STATS -->
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<!-- SNAKE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/charlesponto/charlesponto/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  ⚡ "Code. Learn. Build. Repeat."
 </p>
