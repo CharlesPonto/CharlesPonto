@@ -30,8 +30,7 @@ There are 10 types of people in the world: Those who get Binary, and those who d
 ```python
 class WhoAmI:
     user = 'Charles Ponto'
-    current_work = 'Aspiring Full-Stack Developer'
-    location = 'Diliman, Philippines'
+    location = 'Davao City, Philippines'
     hobbies = [
         'Building web apps',
         'Learning new tech',
