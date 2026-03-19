@@ -12,10 +12,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://img.shields.io/badge/Profile%20Visitors-–?style=for-the-badge&color=94A3B8&logo=github&logoColor=white" 
-    alt="Profile Visitors"
-  />
+   <img src="https://komarev.com/ghpvc/?username=charlesponto&color=94A3B8&style=flat-square&label=Profile-Visitors" alt="Profile Visitors" />
 </p>
 
 <br>
