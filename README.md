@@ -23,7 +23,7 @@
 </div>
 
 <hr>
-
+<h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
