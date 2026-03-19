@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Next.js+•+Express+•+Supabase;Flutter+•+MERN+•+MEVN" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6a0dad&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Next.js+•+Express+•+Supabase;Flutter+•+MERN+•+MEVN" />
 </div>
 
 <br>
@@ -28,15 +28,15 @@
       <br><br>
     </td>
     <td align="center" width="50%" valign="middle" style="padding: 20px;">
-      <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=transparent&text_color=A020F0&icon_color=A020F0&hide_border=true&title_color=A020F0&hide_title=true" />
+      <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=transparent&text_color=6a0dad&icon_color=6a0dad&hide_border=true&title_color=6a0dad&hide_title=true" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="middle" style="padding: 20px;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=transparent&text_color=A020F0&hide_border=true&title_color=A020F0&hide_title=true" />
+      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=transparent&text_color=6a0dad&hide_border=true&title_color=6a0dad&hide_title=true" />
     </td>
     <td align="center" width="50%" valign="middle" style="padding: 20px;">
-      <img height="170" src="https://streak-stats.demolab.com?user=charlesponto&theme=transparent&stroke=A020F0&ring=A020F0&fire=A020F0&currStreakNum=A020F0&sideLabels=A020F0&dates=A020F0&hide_border=true" />
+      <img height="175" src="https://streak-stats.demolab.com?user=charlesponto&theme=transparent&stroke=6a0dad&ring=6a0dad&fire=6a0dad&currStreakNum=6a0dad&sideLabels=6a0dad&dates=6a0dad&hide_border=true" />
     </td>
   </tr>
 </table>
