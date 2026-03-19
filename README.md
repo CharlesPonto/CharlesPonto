@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<!-- VIEWS -->
+<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=charlesponto&color=0e75b6&style=flat" />
 </p>
@@ -48,7 +48,7 @@
 <p align="center">
   <b>Backend</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://skillicons.dev/icons?i=csharp" />
 </p>
 
@@ -68,7 +68,7 @@
 
 <!-- STATS -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="150" src="https://streak-stats.demolab.com?user=charlesponto&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -78,10 +78,10 @@
 
 ---
 
-<!-- SNAKE -->
+<!-- SNAKE ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/charlesponto/charlesponto/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- FOOTER ANIMATION -->
+<!-- FOOTER WAVE ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=100&section=footer"/>
