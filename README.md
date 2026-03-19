@@ -2,16 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316&section=header&text=Hi%20I'm%20Charles&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@charlesgaming28">
-    <img src="https://img.shields.io/badge/YouTube-F97316?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/charlessszx_">
-    <img src="https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ <p align="center">
+
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/)">
+
+<img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin-in&logoColor=white" />
+
+</a>
+
+<a href="[https://youtube.com/YOUR-CHANNEL](https://www.youtube.com/@charlesgaming28)">
+
+<img src="https://img.shields.io/badge/YouTube-F97316?style=for-the-badge&logo=youtube&logoColor=white" />
+
+</a>
+
+<a href="[https://instagram.com/YOUR-INSTAGRAM](https://www.instagram.com/charlessszx_)">
+
+<img src="https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white" />
+
+</a>
+
 </p>
 
 <p align="center">
