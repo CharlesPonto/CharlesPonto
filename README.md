@@ -14,6 +14,7 @@
  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=94A3B8&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=94A3B8&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Next.js+•+Express+•+Supabase;Flutter+•+MERN+•+MEVN" />
 </div>
@@ -26,7 +27,7 @@
 <table align="center" border="1">
   <tr>
     <td align="center" style="padding: 30px; border-color: #94A3B8;">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
       <br><br>
       <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,postgres,mongodb,mysql,supabase&theme=dark" />
       <br><br>
