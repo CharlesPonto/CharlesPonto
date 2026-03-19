@@ -5,9 +5,10 @@
 <br>
 
 <p align="center">
-  <a href="mailto:charlesponto2822@gmail.com"><img src="https://img.shields.io/badge/Email-2ECC71?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2ECC71?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/charlesponto"><img src="https://img.shields.io/badge/GitHub-2ECC71?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://youtube.com/YOUR-CHANNEL"><img src="https://img.shields.io/badge/YouTube-2ECC71?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-2ECC71?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-2ECC71?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -43,7 +44,7 @@
 
 <h3 align="center">📊 GitHub Overview</h3>
 <p align="center">
-  <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=transparent&text_color=2ECC71&icon_color=2ECC71&hide_border=true&title_color=2ECC71&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=transparent&text_color=2ECC71&icon_color=2ECC71&hide_border=true&title_color=2ECC71&hide_title=true&scale=1.1" />
 </p>
 
 <br>
@@ -51,11 +52,11 @@
 <table align="center" border="0">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=transparent&text_color=2ECC71&hide_border=true&title_color=2ECC71&hide_title=true" />
+      <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=transparent&text_color=2ECC71&hide_border=true&title_color=2ECC71&hide_title=true" />
     </td>
-    <td width="20"></td>
+    <td width="10"></td>
     <td align="center" style="padding: 10px;">
-      <img height="185" src="https://streak-stats.demolab.com?user=charlesponto&theme=transparent&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakNum=2ECC71&sideLabels=2ECC71&dates=2ECC71&hide_border=true" />
+      <img height="210" src="https://streak-stats.demolab.com?user=charlesponto&theme=transparent&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakNum=2ECC71&sideLabels=2ECC71&dates=2ECC71&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -66,7 +67,7 @@
 
 <h3 align="center">🐍 Activity Graph</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charlesponto/charlesponto/output/github-contribution-grid-snake.svg" width="85%" />
+  <img src="https://raw.githubusercontent.com/charlesponto/charlesponto/output/github-contribution-grid-snake.svg" alt="Charles Ponto's GitHub Snake" width="90%" />
 </p>
 
 <br>
