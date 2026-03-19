@@ -42,21 +42,21 @@
 <hr>
 
 <h3 align="center">📊 GitHub Overview</h3>
+
 <p align="center">
-  <img height="210" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=dark&text_color=F97316&icon_color=F97316&hide_border=true&title_color=F97316&bg_color=1F2937" />
+  <!-- Top Languages -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=dark&text_color=F97316&hide_border=true&title_color=F97316&bg_color=1F2937" />
 </p>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=dark&text_color=F97316&hide_border=true&title_color=F97316&bg_color=1F2937" />
-    </td>
-    <td width="20"></td>
-    <td align="center" style="padding: 10px;">
-      <img height="185" src="https://streak-stats.demolab.com?user=charlesponto&theme=dark&stroke=F97316&ring=F97316&fire=FACC15&currStreakNum=F97316&sideLabels=F97316&dates=F97316&hide_border=true&background=1F2937" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=dark&text_color=F97316&icon_color=F97316&hide_border=true&title_color=F97316&bg_color=1F2937" />
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <img height="200" src="https://streak-stats.demolab.com?user=charlesponto&theme=dark&stroke=F97316&ring=F97316&fire=FACC15&currStreakNum=F97316&sideLabels=F97316&dates=F97316&hide_border=true&background=1F2937" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=100&section=footer"/>
