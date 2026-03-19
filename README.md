@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F97316&section=header&text=Hi%20I'm%20Charles&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F97316&section=header&text=Hi%20I'm%20Charles&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -27,9 +27,7 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=250&section=header&text=%20&fontSize=1" />
-</p>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,flutter,dart&theme=dark" />
