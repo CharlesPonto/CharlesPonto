@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=charlesponto&color=94A3B8&style=flat-square&label=Profile-Visitors" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=94A3B8&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
 <br>
