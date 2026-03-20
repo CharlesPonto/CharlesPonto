@@ -42,16 +42,6 @@
 <h3 align="center">📊 GitHub Overview</h3>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=dark&text_color=A78BFA&hide_border=true&title_color=A78BFA&bg_color=1F2937" />
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=dark&text_color=A78BFA&icon_color=A78BFA&hide_border=true&title_color=A78BFA&bg_color=1F2937" />
-</p>
-
-<p align="center">
   <!-- Streak -->
   <img height="200" src="https://streak-stats.demolab.com?user=cdponto&theme=dark&stroke=A78BFA&ring=A78BFA&fire=FACC15&currStreakNum=A78BFA&sideLabels=A78BFA&dates=A78BFA&hide_border=true&background=1F2937" />
 </p>
