@@ -1,10 +1,4 @@
-<p align="center">
-  <!-- Dark mode (white text) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello,+I'm+%3CCharles/%3E+👋;Full-Stack+Developer+💻;Building+Clean+and+Efficient+Systems✨;Always+Learning+New+Tech+🚀;" #gh-dark-mode-only />
-
-  <!-- Light mode (black text) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Hello,+I'm+%3CCharles/%3E+👋;Full-Stack+Developer+💻;Building+Clean+and+Efficient+Systems✨;Always+Learning+New+Tech+🚀;" #gh-light-mode-only />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=22C55E&section=header&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" /> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi+I'm+Charles+👋;Full-Stack+Developer;Passionate+About+Clean+Code;Always+Learning+New+Tech;;" /> </p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" /> 
