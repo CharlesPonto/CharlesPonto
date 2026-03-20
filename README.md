@@ -4,18 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-565f89?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@charlesgaming28">
-    <img src="https://img.shields.io/badge/YouTube-565f89?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/charlessszx_">
-    <img src="https://img.shields.io/badge/Instagram-565f89?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
