@@ -1,12 +1,12 @@
 <div align="left">
-    <img align="right" src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20Views&color=22C55E&style=flat" alt="Profile Views">
+    <img align="left" src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20Views&color=22C55E&style=flat" alt="Profile Views">
 </div>
 
 ```JavaScript
 const introduction = {
   name: "Charles Darwin Ponto",
   profession: "Full-Stack Developer",
-  description: "I’m a Third-Year Information Technology student and a Full-Stack Developer. I specialize in building responsive, scalable, and visually appealing web applications, aiming to deliver solutions that combine strong functionality with seamless user experiences.",
+  description: "I’m a Third-Year Information Technology student and a Full-Stack Developer.",
   location: "Davao City, Philippines",
 };
 
