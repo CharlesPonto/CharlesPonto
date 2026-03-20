@@ -1,4 +1,14 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=2000&color=6B7280&center=true&vCenter=true&width=700&lines=Hello,+I'm+%3CCharles/%3E+👋;Full-Stack+Developer+💻;Building+Clean+and+Efficient+Systems✨;Always+Learning+New+Tech+🚀;" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" /> </p>
+<p align="center">
+  <!-- Dark mode (white text) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello,+I'm+%3CCharles/%3E+👋;Full-Stack+Developer+💻;Building+Clean+and+Efficient+Systems✨;Always+Learning+New+Tech+🚀;" #gh-dark-mode-only />
+
+  <!-- Light mode (black text) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Hello,+I'm+%3CCharles/%3E+👋;Full-Stack+Developer+💻;Building+Clean+and+Efficient+Systems✨;Always+Learning+New+Tech+🚀;" #gh-light-mode-only />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" /> 
+</p>
 
 <hr>
 <h3 align="center">🛠️ Languages & Tools</h3>
