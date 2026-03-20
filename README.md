@@ -1,9 +1,8 @@
-<p align="center" style="margin: 0;">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F97316&section=header&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
-</p>
-<div align="center" style="margin: 0;">
+  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=450&lines=Hi+I'm+Charles;Full-Stack+Developer;" />
-</div>
+</p>
  <p align="center">
 
 <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/)">
