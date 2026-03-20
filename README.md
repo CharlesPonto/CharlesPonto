@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F97316&section=header&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=F97316&section=header&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=450&lines=Hi+I'm+Charles;Full-Stack+Developer;" />
 </p>
  <p align="center">
