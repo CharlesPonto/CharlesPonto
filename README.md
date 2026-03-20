@@ -18,6 +18,7 @@ const introduction = {
 };
 
 export default introduction;
+```
 
 <hr>
 <h3 align="center">🛠️ Languages & Tools</h3>
