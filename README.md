@@ -1,5 +1,5 @@
 <div>
-    <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20Views&color=22C55E&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20Views&color=565f89&style=flat" alt="Profile Views">
 </div>
 
 ```JavaScript
@@ -51,5 +51,5 @@ export default introduction;
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=565f89&height=100&section=footer"/>
 </p>
