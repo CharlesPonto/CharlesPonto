@@ -1,17 +1,23 @@
-<div>
-    <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20Views&color=565f89&style=flat" alt="Profile Views">
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=565f89&section=header&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=565f89&center=true&vCenter=true&width=700&lines=Hi+I'm+Charles+👋;Full-Stack+Developer;Passionate+About+Clean+Code;Always+Learning+New+Tech;;" />
+</p>
 
-```JavaScript
-const introduction = {
-  name: "Charles Darwin Ponto",
-  profession: "Full-Stack Developer",
-  description: "I’m a Third-Year Information Technology student and a Full-Stack Developer.",
-  location: "Davao City, Philippines",
-};
+<p align="center">
+  <a href="https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-565f89?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@charlesgaming28">
+    <img src="https://img.shields.io/badge/YouTube-565f89?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/charlessszx_">
+    <img src="https://img.shields.io/badge/Instagram-565f89?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-export default introduction;
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+</p>
 
 <hr>
 <h3 align="center">🛠️ Languages & Tools</h3>
@@ -37,17 +43,17 @@ export default introduction;
 
 <p align="center">
   <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=dark&text_color=22C55E&hide_border=true&title_color=22C55E&bg_color=1F2937" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesponto&layout=compact&theme=dark&text_color=565f89&hide_border=true&title_color=565f89&bg_color=1F2937" />
 </p>
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=dark&text_color=22C55E&icon_color=22C55E&hide_border=true&title_color=22C55E&bg_color=1F2937" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=charlesponto&show_icons=true&theme=dark&text_color=565f89&icon_color=565f89&hide_border=true&title_color=565f89&bg_color=1F2937" />
 </p>
 
 <p align="center">
   <!-- Streak -->
-  <img height="200" src="https://streak-stats.demolab.com?user=charlesponto&theme=dark&stroke=22C55E&ring=22C55E&fire=FACC15&currStreakNum=22C55E&sideLabels=22C55E&dates=22C55E&hide_border=true&background=1F2937" />
+  <img height="200" src="https://streak-stats.demolab.com?user=charlesponto&theme=dark&stroke=565f89&ring=565f89&fire=FACC15&currStreakNum=565f89&sideLabels=565f89&dates=565f89&hide_border=true&background=1F2937" />
 </p>
 
 <p align="center">
