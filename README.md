@@ -1,5 +1,5 @@
 <div>
-    <img align="left" src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20Views&color=22C55E&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20Views&color=22C55E&style=flat" alt="Profile Views">
 </div>
 
 ```JavaScript
