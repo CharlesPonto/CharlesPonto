@@ -1,20 +1,13 @@
 <div align="left">
-    <a href="https://www.linkedin.com/in/charles-darwin-ponto-381b552a9/">
-        <img src="https://img.shields.io/badge/-Charles%20Ponto-22C55E?style=flat&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
-    </a>
     <img align="right" src="https://komarev.com/ghpvc/?username=charlesponto&label=Profile%20Views&color=22C55E&style=flat" alt="Profile Views">
-</div>
-
-<div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=22C55E&section=header&font=Poppins&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
 </div>
 
 ```JavaScript
 const introduction = {
-  name: "Charles Ponto",
+  name: "Charles Darwin Ponto",
   profession: "Full-Stack Developer",
-  description: "Passionate about clean code, learning new technologies, and building meaningful projects",
-  location: "Philippines",
+  description: "I’m a Third-Year Information Technology student and a Full-Stack Developer. I specialize in building responsive, scalable, and visually appealing web applications, aiming to deliver solutions that combine strong functionality with seamless user experiences.",
+  location: "Davao City, Philippines",
 };
 
 export default introduction;
