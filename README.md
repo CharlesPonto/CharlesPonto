@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" /> </p>
 
 
 <h3 align="center">🛠️ Languages & Tools</h3>
