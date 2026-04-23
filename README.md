@@ -1,6 +1,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" /> </p>
 
-<hr>
+
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
   <!-- Frontend -->
@@ -18,4 +18,4 @@
   <!-- Tools & DevOps -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite&theme=dark" />
 </p>
-<hr>
+
