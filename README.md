@@ -19,7 +19,7 @@ export default developer;
 <h3 align="">🛠️ Languages & Tools</h3>
 <p align="">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
 </p>
 <p align="">
   <!-- Backend -->
