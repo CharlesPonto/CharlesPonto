@@ -23,7 +23,7 @@ export default developer;
 </p>
 <p align="">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,java,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,java,cs,dotnet&theme=dark" />
 </p>
 <p align="">
   <!-- Database -->
