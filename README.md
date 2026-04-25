@@ -34,6 +34,8 @@ export default developer;
 <p align="">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite,linux,npm,vercel&theme=dark" />
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" />
+  <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="48" alt="Zapier" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
 </p>
 </p>
 
