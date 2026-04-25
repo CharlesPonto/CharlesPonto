@@ -31,6 +31,9 @@ export default developer;
 </p>
 <p align="">
   <!-- Tools & DevOps -->
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite,linux,npm&theme=dark" />
+<p align="">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vite,linux,npm,vercel&theme=dark" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" />
+</p>
 </p>
 
