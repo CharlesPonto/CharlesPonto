@@ -1,7 +1,5 @@
 
 
-<p align=""><img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" /> </p>
-
 ```js
 const developer = {
   name: "Charles Darwin Ponto",
@@ -16,6 +14,7 @@ const developer = {
   ],
 };
 ```
+<p align=""><img src="https://komarev.com/ghpvc/?username=charlesponto&color=565f89&style=flat-square&label=Profile%20Views" alt="Profile Views" /> </p>
 
 <h3 align="">🛠️ Languages & Tools</h3>
 <p align="">
