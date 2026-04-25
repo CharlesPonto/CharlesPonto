@@ -3,7 +3,6 @@
 ```js
 const developer = {
   name: "Charles Darwin Ponto",
-  alias: "Charles",
   role: "Full-Stack Developer",
 
   services: [
