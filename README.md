@@ -12,7 +12,6 @@ const developer = {
     "Data Analysis",
   ],
 };
-
 export default developer;
 ```
 
