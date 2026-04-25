@@ -12,6 +12,8 @@ const developer = {
     "Data Analysis",
   ],
 };
+
+export default developer;
 ```
 
 <h3 align="">🛠️ Languages & Tools</h3>
